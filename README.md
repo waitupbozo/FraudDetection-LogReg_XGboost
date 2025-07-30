@@ -211,7 +211,8 @@ ROC AUC Score: 0.9515146195331061
 ## 📚 References
 
 - [XGBoost Documentation](https://xgboost.readthedocs.io)  
-- [Scikit-learn Documentation](https://scikit-learn.org)  
+- [Scikit-learn Documentation](https://scikit-learn.org)
+- [Dataset link](https://www.kaggle.com/datasets/amanindiamuz/financial-dataset-for-fraud-detection-in-a-comapny)
 
 
 ---
